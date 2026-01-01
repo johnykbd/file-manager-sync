@@ -1,0 +1,33 @@
+[
+  {
+    "username": "admin",
+    "passwordHash": "$2b$10$e89gJQhg4kzxA6WofXLT5eRcJ891kADoAZO7pFX6mGwUQKoAGzm9W",
+    "role": "admin",
+    "createdAt": "2026-01-01T05:46:39.477Z",
+    "syncSettings": {
+      "enabled": true
+    }
+  },
+  {
+    "username": "mkaikubad",
+    "passwordHash": "$2b$10$aV8Vui7FlJPTdq7aBEke.ejlx/LWs82.YGc4pL6AvEOnaawHeRRRW",
+    "role": "user",
+    "createdAt": "2026-01-01T06:02:07.176Z",
+    "syncSettings": {
+      "enabled": true,
+      "allowCellular": false,
+      "galleryLinked": true
+    }
+  },
+  {
+    "username": "arifa",
+    "passwordHash": "$2b$10$ZNCHYn014b.XiARsZVMjOeJqIedXX6DpuShlfJRjbqvlH21hpg6zC",
+    "role": "user",
+    "createdAt": "2026-01-01T07:16:28.391Z",
+    "syncSettings": {
+      "enabled": false,
+      "allowCellular": false,
+      "galleryLinked": false
+    }
+  }
+]
